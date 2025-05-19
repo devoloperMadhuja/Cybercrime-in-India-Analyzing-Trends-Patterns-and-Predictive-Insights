@@ -23,11 +23,11 @@ With India's rapid digital transformation, cybercrime incidents have surged, imp
 🌍 **Geospatial Analysis**: Folium  
 
 ## 📂 Project Structure  
-# Cyber-Crime-Analysis/ │── data/               # Raw datasets
-# │── notebooks/          # Jupyter Notebook files for exploration
-# │── reports/            # Project documentation
-# │── src/               # Python scripts for analysis
-# │── README.md           # Project overview
+Cyber-Crime-Analysis/ │── data/               # Raw datasets
+│── notebooks/          # Jupyter Notebook files for exploration
+│── reports/            # Project documentation
+│── src/               # Python scripts for analysis
+│── README.md           # Project overview
 
 
 ## 📈 Key Findings  
