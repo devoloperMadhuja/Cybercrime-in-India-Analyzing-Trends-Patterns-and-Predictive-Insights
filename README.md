@@ -24,7 +24,7 @@ With India's rapid digital transformation, cybercrime incidents have surged, imp
 
 ## 📂 Project Structure  
 Cyber-Crime-Analysis/ │── data/               # Raw datasets
-│── notebooks/          # Jupyter Notebook files for exploration
+│── notebooks/          #  Google Colab
 │── reports/            # Project documentation
 │── src/               # Python scripts for analysis
 │── README.md           # Project overview
